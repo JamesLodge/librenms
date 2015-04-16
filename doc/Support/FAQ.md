@@ -21,6 +21,8 @@ For Debian / Ubuntu installs follow [Debian / Ubuntu](http://docs.librenms.org/I
 
 For RedHat / CentOS installs follow [RedHat / CentOS](http://docs.librenms.org/Installation/Installation-(RHEL-CentOS))
 
+For FreeBSD installs follow [FreeBSD](http://docs.librenms.org/Installation/Installation-(FreeBSD))
+
 #### <a name="faq2"> How do I add a device?</a>
 
 You have two options for adding a new device into LibreNMS.
